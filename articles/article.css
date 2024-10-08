@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.jumbotron{
+    background-image: url('../assets/img/close-up-people-volunteer-teamwork-putting-finger-star-shapehands-togetherstack-handsunity-teamwork-world-environment-day\ 1.jpg');
+    height: 445px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.jumbo-heading{
+    padding: 0 7%;
+    font-weight: 800px;
+}
+
+.Jumbo-heading-1{
+    color: #90CAF9;
+    width: 210px;
+}
+
+.Jumbo-heading-2{
+    color: #303E3F;
+}
+
+.jumbo-desk{
+    padding: 0 7%;
+    width: 495px;
+    color: #303E3F;
+}
+
+.btn-jumbo-container{
+    padding: 0 7%;
+}
+
+.btn-jumbo{
+    width: 129px;
+    height: 44px;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    background-color: #90CAF9;
+}
+
+.btn.btn-warning {
+    background: #fdd168;
+    background: linear-gradient(-45deg, #ecb535, #fdd168);
+    color: #fff;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+  }
+  
+  .btn.btn-warning:hover{
+    background: linear-gradient(90deg,  #be973c, #9e7618);
+  }
+  
+.main-content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1.5rem 0;
+}
+
+.titlle-main-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.tittle{
+    color: #303E3F;
+}
+
+.titlle-main-content{
+    padding: 0 7%;
+}
+
+.artikel{
+    display: flex;
+    margin-bottom: 4rem;
+}
+
+.artikel .btn{
+    background-color: #90CAF9;
+    color: #fff;
+    border-radius: 15px;
+    float: right;
+}
+.article-short{
+   width: 100%;
+   margin-top: 1rem;
+}
+
+.article-short-wrap{
+    display: flex;
+    width: 100%;
+    margin-bottom: 4%;
+}
+
+.article-image{
+    margin-right: 1%;
+    padding: 0 7%;
+}
+
+.article-image img{
+    width: 389px;
+    height: 290px;
+}
+
+.article-news{
+    width: 645px;
+    color: rgba(109, 106, 106, 0.74);
+}
+
+.article-news p{
+    font-weight: 100;
+}
+
+.article-news h4{
+    color: #303E3F;
+    font-weight: 600;
+}
+
+.card-text{
+    color: rgb(172, 172, 172);
+}
+
+.load-more{
+    padding: 0 7%;
+}
+
+.btn-article{
+    background-color: #90CAF9;
+    border: none;
+    width: 129px;
+    height: 44px;
+    border-radius: 20px;
+}
+
+.btn-article a{
+    color: #fff;
+}
+
